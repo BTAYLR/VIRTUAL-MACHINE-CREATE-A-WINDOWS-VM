@@ -6,8 +6,7 @@
 This project will demonstrate step-by-step instructions on creating a virtual machine.
 
 <br />
-
- <h3>Languages Used</h3>
+<h3>Languages Used</h3>
 
  - <b>Powershell</b>
  - <b>JSON</b>
