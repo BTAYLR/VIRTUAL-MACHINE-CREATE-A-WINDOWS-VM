@@ -4,7 +4,6 @@
  <h2>Description</h2>
 
 This project will demonstrate step-by-step instructions on creating a virtual machine.
-
 <br />
 <h3>Languages Used</h3>
 
