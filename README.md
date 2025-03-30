@@ -1,6 +1,5 @@
  <h1>Creating a Virtual Machine in Azure</h1>
 
- 
  <h2>Description</h2>
 This project will demonstrate step-by-step instructions on creating a virtual machine.
 <br />
