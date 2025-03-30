@@ -23,8 +23,8 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 - <b>Azure Virtual Machine</b>
 - <b>Remote Desktop Protocol</b>
 
-<h6> Implementation </h6>
+<h6>Implementation</h6>
 
 
-<h7> Demonstration </h7>
+<h7>Demonstration</h7>
  
