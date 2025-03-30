@@ -21,6 +21,11 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h2>Walk-Through</h2>
 
+<h3> Prerequisites </h3>
+
+- <b>Azure Tenant</b>
+- <b>Subscription: Pay-As-You-Go or Free, in my case it is free.</b>
+
 
 <h2>Demonstration</h2>
  
