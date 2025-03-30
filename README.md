@@ -1,4 +1,4 @@
- <h1>Creating a Virtual Machine in Azure</h1>
+ <h1>Creating a Windows Virtual Machine in Azure</h1>
 
  <h2>Description</h2>
 This project will demonstrate step-by-step instructions on creating a virtual machine.
@@ -23,7 +23,7 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h3> Prerequisites </h3>
 
-- <b>Azure Tenant</b>
+- <b>Tenant (Organization)</b>
 - <b>Subscription: Pay-As-You-Go or Free, in my case it is free.</b>
 
 
