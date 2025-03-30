@@ -1,19 +1,19 @@
- <h1> Creating a Virtual Machine in Azure </h1>
+ <h1>Creating a Virtual Machine in Azure</h1>
 
- <h2> Description </h2>
+ <h2>Description</h2>
 
 This project will demonstrate step-by-step instructions on creating a virtual machine.
 
- <h3> Languages Used </h3>
+ <h3>Languages Used</h3>
 
  <b>Powershell</b>
  <b>JSON</b>
  
- <h4> Environments Used </h4>
+ <h4>Environments Used</h4>
  
  <b>Windows 10</b>
 
-<h5> Technology-Applications-Servers </h5>
+<h5>Technology-Applications-Servers</h5>
 
 <b>Azure Storage</b>
 <b>Azure Resource Group</b>
