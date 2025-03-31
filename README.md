@@ -19,13 +19,12 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 - <b>Azure Virtual Machine</b>
 - <b>Remote Desktop Protocol</b>
 
-<h2>Walk-Through</h2>
-
-<h3> Prerequisites </h3>
+<h2> Prerequisites </h2>
 
 - <b>Tenant (Organization)</b>
-- <b>Subscription: Pay-As-You-Go or Free, in my case it is free.</b>
+- <b>Subscription: Pay-As-You-Go or Free, in my case, is free.</b>
 
+<h2>Walk-Through</h2>
 
 <h2>Demonstration</h2>
  
