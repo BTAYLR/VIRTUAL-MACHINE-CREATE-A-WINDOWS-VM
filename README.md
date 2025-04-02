@@ -26,8 +26,8 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h2>Visual Walk-Through</h2>
 
-"!0402.mp4"
+
 
 <h2>Visual Demonstration</h2>
 
- !"W-VM WT 2025-04-02 12-26-10.mp4" 
+ 
