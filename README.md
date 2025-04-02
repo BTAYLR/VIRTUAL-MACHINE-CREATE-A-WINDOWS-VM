@@ -24,10 +24,10 @@ This project will demonstrate step-by-step instructions on creating a Windows vi
 - <b>Tenant (Organization)</b>
 - <b>Subscription: Pay-As-You-Go or Free, in my case, is free.</b>
 
-<h2>Visual Walk-Through</h2>
+<h2>Visual Walk-Through on Creating a Windows Virtual Machine</h2>
 
 https://github.com/user-attachments/assets/bba2bca3-6bb1-4744-9f37-80d19b170b3b
 
-<h2>Visual Demonstration</h2>
+<h2>Visual Demonstration on Connecting to and Using a windows Virtual Machine</h2>
 
  https://github.com/user-attachments/assets/eb5aebfa-d3f5-4d13-a2aa-b166bd47c655
