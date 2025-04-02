@@ -26,12 +26,8 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h2>Visual Walk-Through</h2>
 
-<video width="648" height="360" controls>
-<source src="C:\Users\nilzi\Videos\Captures\W-VM WT 2025-04-02 12-26-10.mp4" type="video/mp4">
-</video>
+"!0402.mp4"
 
 <h2>Visual Demonstration</h2>
 
- <video width="648" height="360" controls>
- <source src="C:\Users\nilzi\Videos\Captures\FINISHED W-VM DM\0402.mp4" type="video/mp4">
- </video>
+ !"W-VM WT 2025-04-02 12-26-10.mp4" 
