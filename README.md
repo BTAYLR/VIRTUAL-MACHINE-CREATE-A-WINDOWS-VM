@@ -1,7 +1,7 @@
  <h1>Creating a Windows Virtual Machine in Azure</h1>
 
  <h2>Description</h2>
-This project will demonstrate step-by-step instructions on creating a Windows virtual machine.
+This project will demonstrate a step-by-step visual on creating a Windows virtual machine.
 <br />
 <h2>Languages Used</h2>
 
