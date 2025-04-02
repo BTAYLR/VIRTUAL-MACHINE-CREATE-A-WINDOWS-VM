@@ -26,7 +26,7 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h2>Visual Walk-Through</h2>
 
-![Video Alt]W-VM WT COMP 2025-04-02 12-26-10.mp4
+
 
 <h2>Visual Demonstration</h2>
 
