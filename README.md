@@ -26,7 +26,7 @@ This project will demonstrate step-by-step instructions on creating a virtual ma
 
 <h2>Visual Walk-Through</h2>
 
-![Video Alt]https://github.com/BTAYLR/VIRTUAL-MACHINE-CREATE-A-VM/blob/996ce5768ada797fcf525f420de1715226aa1375/W-VM%20WT%20COMP%202025-04-02%2012-26-10.mp4
+
 
 <h2>Visual Demonstration</h2>
 
