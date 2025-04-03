@@ -25,6 +25,7 @@ This project will display a step-by-step visual on creating a Windows virtual ma
 - <b>Subscription: Pay-As-You-Go or Free, in my case, the subscription is free.</b>
 
 
+
 <h2>Visual Walk-Through on Creating a Windows Virtual Machine</h2>
 
 https://github.com/user-attachments/assets/bba2bca3-6bb1-4744-9f37-80d19b170b3b
