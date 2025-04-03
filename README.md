@@ -23,9 +23,7 @@ This project will display a step-by-step visual on creating a Windows virtual ma
 
 - <b>Tenant (Organization)</b>
 - <b>Subscription: Pay-As-You-Go or Free, in my case, the subscription is free.</b>
-
-
-
+ </br>
 
 <h2>Visual Walk-Through on Creating a Windows Virtual Machine</h2>
 
