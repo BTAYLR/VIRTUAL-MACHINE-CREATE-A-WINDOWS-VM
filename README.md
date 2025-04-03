@@ -22,7 +22,7 @@ This project will demonstrate a step-by-step visual on creating a Windows virtua
 <h2> Prerequisites </h2>
 
 - <b>Tenant (Organization)</b>
-- <b>Subscription: Pay-As-You-Go or Free, in my case, subscription is free.</b>
+- <b>Subscription: Pay-As-You-Go or Free, in my case, the subscription is free.</b>
 
 <h2>Visual Walk-Through on Creating a Windows Virtual Machine</h2>
 
