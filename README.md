@@ -6,7 +6,6 @@ This project will display a step-by-step visual on creating a Windows virtual ma
 <h2>Languages Used</h2>
 
  - <b>Powershell</b>
- - <b>JSON</b>
  
  <h2>Environments Used</h2>
  
